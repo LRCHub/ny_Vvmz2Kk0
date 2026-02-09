@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "白波トップウォーター",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-09T06:16:58.061748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白波トップウォーター",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_白波トップウォーター_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白波トップウォーター",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_白波トップウォーター_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "白波トップウォーター",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/03_白波トップウォーター_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shiranami Top Water [白波トップウォーター]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/04_Shiranami_Top_Water_[白波トップウォーター]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "白波トップウォーター",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/05_白波トップウォーター_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "白波トップウォーター",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/06_白波トップウォーター_Sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白波トップウォーター",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_白波トップウォーター_サカナクション.txt"
+    }
+  ]
+}
